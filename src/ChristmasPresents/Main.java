@@ -1,2 +1,4 @@
-package ChristmasPresents;public class Main {
+package ChristmasPresents;
+
+public class Main {
 }
